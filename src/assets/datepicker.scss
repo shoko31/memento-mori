@@ -1,0 +1,25 @@
+.dp__theme_light {
+  --dp-background-color: var(--input-background-color, #fff) !important;
+  --dp-text-color: var(--input-text-color, #212121) !important;
+  --dp-hover-color: var(--input-hover-color, #f3f3f3) !important;
+  --dp-hover-text-color: var(--input-hover-text-color, #212121) !important;
+  --dp-hover-icon-color: var(--input-hover-icon-color, #959595) !important ;
+  --dp-primary-color: var(--input-primary-color, #1976d2) !important;
+  --dp-primary-disabled-color: var(--input-primary-disabled-color, #6bacea) !important;
+  --dp-primary-text-color: var(--input-primary-text-color, #f8f5f5) !important;
+  --dp-secondary-color: var(--input-secondary-color, #c0c4cc) !important;
+  --dp-border-color: var(--input-border-color, #ddd) !important;
+  --dp-menu-border-color: var(--input-menu-border-color, #ddd) !important;
+  --dp-border-color-hover: var(--input-border-color-hover, #aaaeb7) !important;
+  --dp-disabled-color: var(--input-disabled-color, #f6f6f6) !important;
+  --dp-scroll-bar-background: var(--input-scroll-bar-background, #f3f3f3) !important;
+  --dp-scroll-bar-color: var(--input-hover-color, #959595) !important;
+  --dp-success-color: var(--input-success-color, #76d275) !important;
+  --dp-success-color-disabled: var(--input-success-color-disabled, #a3d9b1) !important;
+  --dp-icon-color: var(--input-icon-color, #959595) !important;
+  --dp-danger-color: var(--input-danger-color, #ff6f60) !important;
+  --dp-marker-color: var(--input-marker-color, #ff6f60) !important;
+  --dp-tooltip-color: var(--input-tooltip-color, #fafafa) !important;
+  --dp-disabled-color-text: var(--input-disabled-color-text, #8e8e8e) !important;
+  --dp-highlight-color: var(--input-highlight-color, rgb(25 118 210 / 10%)) !important;
+}
